@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510714405609",
+    "project_id": "freshbasketcustomer-83101",
+    "storage_bucket": "freshbasketcustomer-83101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510714405609:android:340d6a826bd9441010c678",
+        "android_client_info": {
+          "package_name": "com.Freshbacket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510714405609-l504pf5t7hhjtbgboustaor0ni15ci65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvdmBRuR3qhAjuemwd96Q7zLGgXi3Yqes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510714405609-l504pf5t7hhjtbgboustaor0ni15ci65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
